@@ -4,7 +4,7 @@ Exploring Weather Trends is the first project in the Data Analyst Nanodegree pro
 
 ## Steps
 * Extract the dataset using SQl from the database provided in the Udacity portal.
-* Clean the dataset.
+* Prepare the data.
 * Create a line chart for the data given.
 * Make observations about the similarities and differences between the world average temeprature and the local average temperature.
 
